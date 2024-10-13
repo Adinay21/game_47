@@ -1,5 +1,5 @@
 from random import randint, choice
-# tyuio
+# tyuiofghj
 
 class GameEntity:
     def __init__(self, name, health, damage):
