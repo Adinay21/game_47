@@ -38,3 +38,5 @@ def start_game(range_min, range_max, attempts, starting_balance):
             print("Неправильный ввод. Попробуйте снова.\n")
 
     print(f"Игра окончена. Загаданное число было: {target_number}. Ваш итоговый баланс: {balance}.")
+
+# dfghjk
