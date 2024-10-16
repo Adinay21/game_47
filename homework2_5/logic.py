@@ -1,6 +1,6 @@
 import random
 
-# fgh
+
 def start_game(range_min, range_max, attempts, starting_balance):
     target_number = random.randint(range_min, range_max)
     balance = starting_balance

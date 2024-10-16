@@ -51,3 +51,4 @@ while True:
 
     else:
         print('Вводите только команды')
+#         fghjkl;
